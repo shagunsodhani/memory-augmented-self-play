@@ -4,10 +4,11 @@
 
 ## Paper
 
-* [Arxiv](https://arxiv.org/abs/1805.11016)
+* [Arxiv](https://arxiv.org/abs/1805.11016) [Submitted to ICML Workshop]
 
 ## Setup
 
+* Install requirements using `pip install -r SelfPlay/requirements.txt`.
 * copy `SelfPlay/config/config.cfg.sample` to `Selfplay/config/config.cfg` and update parameters as required
 * `cd SelfPlay` and run `./test.sh`
 * Refer `SelfPlay/test.sh` to see the different scripts that are supported.
